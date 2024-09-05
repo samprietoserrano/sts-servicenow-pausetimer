@@ -1,1 +1,1 @@
-# sts-servicenow-timerpause
+# sts-servicenow-pausetimer_plugin

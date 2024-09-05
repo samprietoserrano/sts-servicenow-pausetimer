@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name        ServiceNow Stop Timer
 // @namespace   Violentmonkey Scripts
-// @license     -
+// @license     
 // @match       *://stanford.service-now.com/*
 // @grant       none
 // @version     1.3
-// @author      -
 // @description Script to stop the timer if it is running
 // ==/UserScript==
 

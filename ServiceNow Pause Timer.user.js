@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name        ServiceNow Stop Timer
-// @namespace   Violentmonkey Scripts
-// @license     MIT
+// @namespace   https://github.com/samprietoserrano/sts-servicenow-pausetimer
+// @updateURL https://openuserjs.org/meta/samxp/ServiceNow_Stop_Timer.meta.js
+// @downloadURL https://openuserjs.org/install/samxp/ServiceNow_Stop_Timer.user.js
 // @match       *://stanford.service-now.com/*
+// @license MIT
+// @copyright 2024, samxp (https://openuserjs.org/users/samxp)
 // @description Script to stop the timer if it is running
 // ==/UserScript==
 
@@ -45,4 +48,3 @@
     });
 
 })();
-

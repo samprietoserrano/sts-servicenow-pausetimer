@@ -5,7 +5,6 @@
 // @grant       none
 // @version     1.3
 // @author      -
-// @license     MIT
 // @description Script to stop the timer if it is running
 // ==/UserScript==
 

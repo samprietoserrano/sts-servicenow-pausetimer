@@ -5,9 +5,9 @@
 // @grant       none
 // @version     1.3
 // @author      -
+// @license https://github.com/samprietoserrano/sts-servicenow-pausetimer/blob/main/LICENSE
 // @description Script to stop the timer if it is running
 // ==/UserScript==
-// ==UserScript==
 
 (function() {
     'use strict';

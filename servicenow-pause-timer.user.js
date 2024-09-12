@@ -4,8 +4,8 @@
 // @match       *://stanford.service-now.com/*
 // @description Script to stop the timer if it is running
 // @icon https://cdn.iconscout.com/icon/premium/png-256-thumb/stop-timer-1073190.png
-// @downloadURL https://raw.githubusercontent.com/samprietoserrano/sts-servicenow-pausetimer/main/servicenow-pause-timer.user.js
-// @updateURL   https://raw.githubusercontent.com/samprietoserrano/sts-servicenow-pausetimer/main/servicenow-pause-timer.user.js
+// @downloadURL https://raw.githubusercontent.com/samprietoserrano/sts-servicenow-pausetimer/main/servicenow-pause-timer.user.js?v=1.0
+// @updateURL   https://raw.githubusercontent.com/samprietoserrano/sts-servicenow-pausetimer/main/servicenow-pause-timer.user.js?v=1.0
 // @supportURL  https://github.com/samprietoserrano/sts-servicenow-pausetimer/issues
 // @homepageURL https://github.com/samprietoserrano/sts-servicenow-pausetimer
 // @license MIT

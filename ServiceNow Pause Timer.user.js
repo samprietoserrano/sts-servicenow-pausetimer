@@ -6,7 +6,7 @@
 // @match       *://stanford.service-now.com/*
 // @license MIT
 // @copyright 2024, samxp (https://openuserjs.org/users/samxp)
-// @icon https://static-00.iconduck.com/assets.00/timer-icon-512x512-vrl212i7.png
+// @icon https://www.flaticon.com/free-icon/stopclock_694115
 // @description Script to stop the timer if it is running
 // ==/UserScript==
 

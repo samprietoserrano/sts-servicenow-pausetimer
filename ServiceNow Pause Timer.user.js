@@ -6,6 +6,7 @@
 // @match       *://stanford.service-now.com/*
 // @license MIT
 // @copyright 2024, samxp (https://openuserjs.org/users/samxp)
+// @icon https://static-00.iconduck.com/assets.00/timer-icon-512x512-vrl212i7.png
 // @description Script to stop the timer if it is running
 // ==/UserScript==
 
@@ -44,7 +45,7 @@
 
     // Wait until the DOM is fully loaded
     window.addEventListener('load', function() {
-        setTimeout(processElements, 1000);  // Slight delay to ensure all elements are loaded
+        setTimeout(processElements, 100);  // Slight delay to ensure all elements are loaded
     });
 
 })();

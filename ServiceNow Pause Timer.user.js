@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        ServiceNow Stop Timer
 // @namespace   https://github.com/samprietoserrano/sts-servicenow-pausetimer
-// @updateURL https://openuserjs.org/meta/samxp/ServiceNow_Stop_Timer.meta.js
-// @downloadURL https://openuserjs.org/install/samxp/ServiceNow_Stop_Timer.user.js
+// @updateURL https://github.com/samprietoserrano/sts-servicenow-pausetimer/raw/main/ServiceNow Pause Timer.user.js
+// @downloadURL https://github.com/samprietoserrano/sts-servicenow-pausetimer/raw/main/ServiceNow Pause Timer.user.js
 // @match       *://stanford.service-now.com/*
 // @license MIT
 // @copyright 2024, samxp (https://openuserjs.org/users/samxp)

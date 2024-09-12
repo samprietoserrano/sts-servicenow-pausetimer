@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name        ServiceNow Stop Timer
-// @namespace   https://github.com/samprietoserrano/sts-servicenow-pausetimer.
+// @namespace   https://github.com/samprietoserrano/sts-servicenow-pausetimer
 // @match       *://stanford.service-now.com/*
-// @description Script to stop the timer if it is running
+// @description Script to stop the timer if it is running.
 // @icon https://cdn.iconscout.com/icon/premium/png-256-thumb/stop-timer-1073190.png
+// @downloadURL https://raw.githubusercontent.com/samprietoserrano/sts-servicenow-pausetimer/servicenow-pause-timer.user.js
+// @updateURL   https://raw.githubusercontent.com/samprietoserrano/sts-servicenow-pausetimer/servicenow-pause-timer.user.js
+// @supportURL  https://github.com/samprietoserrano/sts-servicenow-pausetimer/issues
+// @homepageURL https://github.com/samprietoserrano/sts-servicenow-pausetimer
 // @license MIT
 // @copyright 2024, samxp (https://openuserjs.org/users/samxp)
 // ==/UserScript==
